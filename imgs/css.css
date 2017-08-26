@@ -1,0 +1,13 @@
+#preview{
+    position: absolute;
+    background: white;
+    padding: 5px;
+    border: 1px solid #ddd;
+}
+#preview img{
+    display: block;
+    margin-bottom: 5px;
+}
+#preview span{
+    text-align: center;
+}
